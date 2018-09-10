@@ -1,0 +1,27 @@
+abs() - 절대값
+hex() - 10진수를 16진수로 변환
+oct() - 8진수로 변환
+divmod() - 몫,나머지 반환
+max() - 최대값 반환
+min() - 최소값 반환
+pow() - 지수 곱
+
+chr() - matching ASCII value 반환
+ord() - matching ASCII index 반환
+id() - 주소값 반환
+len() - 길이 반환
+
+int() - 정수형으로 변환
+str() - 문자열로 변환
+tuple() - tuple로 변환
+type() - 자료형 반환
+
+zip() - 여러 자료형을 하나로 묶어줌
+
+input() - 입력 받음
+eval() - 해당 문자열 실행
+range() - 범위
+isinstance() - 인스턴스 맞는지 확인
+
+list() - list로 변환
+sorted() - 정렬
